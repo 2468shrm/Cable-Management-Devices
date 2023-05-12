@@ -33,3 +33,19 @@ An ethernet cable is intended to be captured (held) in the vertical groove and h
 by two zip ties using the provided grooves.
 
 ![alt text](https://github.com/2468shrm/Cable-Management-Devices/blob/main/IMAGES/EthernetCableBrace.png?raw=true)
+
+## RoboRIO Mount
+
+Originally designed by one of the students, John Y, and since been improved, it serves
+as a medium for between robot and RIO. One intent is to print out of shock/vibration absorbing
+TPU filament.
+
+## RSL Mount
+
+A simple RSL mount for connecting to REV 1x2 tubing.  Just be sure the 0.5 inch hole pattern
+exists.
+
+## Radio Mount
+
+A simple radio mount for connecting to REV 1x2 tubing.  Just be sure the 0.5 inch hole pattern
+exists.
