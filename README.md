@@ -49,3 +49,20 @@ exists.
 
 A simple radio mount for connecting to REV 1x2 tubing.  Just be sure the 0.5 inch hole pattern
 exists.
+
+## Wire Tunnel
+
+This is a protective device intended to be surface mounted. It forms a protective ramp for
+a wire to pass through it. Specifically for situations where a mechanism may impact the wire
+perpendicularly. Change length as needed.
+
+![alt text](https://github.com/2468shrm/Cable-Management-Devices/blob/main/IMAGES/WireTunnel.png?raw=true)
+
+## Wire Tunnel Clip
+
+A version ot the Wire Tunnel that grabs about a 1x1 unch square tube. Change length as
+needed.
+
+![alt text](https://github.com/2468shrm/Cable-Management-Devices/blob/main/IMAGES/WireTunnelClip.png?raw=true)
+
+
